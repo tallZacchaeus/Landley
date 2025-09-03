@@ -101,13 +101,6 @@ Edit the component files in `src/components/` to update:
 ### Styling
 Modify Tailwind classes in components or add custom CSS to `globals.css`.
 
-## Contact Information
-
-- **Phone**: 07064288437, 07061962893
-- **Email**: landleyrealestate@gmail.com
-- **Address**: Innovation Hub, Redemption City, Ogun State
-- **WhatsApp**: https://wa.me/2347064288437
-
 ## Browser Support
 
 - Chrome (latest)
